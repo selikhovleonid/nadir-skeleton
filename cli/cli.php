@@ -2,9 +2,9 @@
 # Add follow line to the  .htaccess to give ability to return cli file with httpd.
 # RedirectMatch 403 /cli.php$
 
-require_once '../../vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
-// Running cli application.
+// Running CLI Application.
 \nadir\core\CliApp::getInstance()
     // The Application root setting.
     ->setAppRoot(dirname(__DIR__))
