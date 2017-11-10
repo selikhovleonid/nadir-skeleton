@@ -6,7 +6,7 @@ return array(
         'views'       => '/views/views',
         'layouts'     => '/views/layouts',
         'snippets'    => '/views/snippets',
-        'images'      => '/assets/imgs',
+        'images'      => '/web/assets/imgs',
         'js'          => '/web/js',
         'css'         => '/web/css'
     ),
