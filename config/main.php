@@ -1,6 +1,6 @@
 <?php
 return array(
-    'componentsRootMap'  => array(
+    'componentsRootMap' => array(
         'models'      => '/models',
         'controllers' => '/controllers',
         'views'       => '/views/views',
@@ -10,18 +10,8 @@ return array(
         'js'          => '/web/js',
         'css'         => '/web/css'
     ),
-    'autoloadingRootSet' => array(
-        // controllers, models and extensions autoloading root
-        '/',
-    ),
-    'defaultLayout'      => 'main',
-//    'db'                 => array(// for example
-//        'host'     => '',
-//        'username' => '',
-//        'password' => '',
-//        'dbname'   => ''
-//    ),
-    'routeMap'           => array(
+    'defaultLayout'     => 'main',
+    'routeMap'          => array(
         'cli'    => array(
             '--test' => array(
                 'ctrl' => array('Cli', 'actionTest'),
@@ -55,5 +45,11 @@ return array(
                 'auth' => false,
             ),
         ),
-    )
+    ),
+//    'db'                => array(
+//        'host'     => '',
+//        'username' => '',
+//        'password' => '',
+//        'dbname'   => ''
+//    ),
 );
