@@ -1,5 +1,5 @@
 <?php
-require_once '../../vendor/autoload.php';
+require_once '../vendor/autoload.php';
 
 // Running the Web Application.
 \nadir\core\WebApp::getInstance()
