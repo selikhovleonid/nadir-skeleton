@@ -6,7 +6,7 @@ use nadir\core\AbstractCliCtrl;
 
 /**
  * This is command line interface controller.
- * @author coon
+ * @author Leonid Selikhov
  */
 class Cli extends AbstractCliCtrl
 {

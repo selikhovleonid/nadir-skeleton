@@ -4,7 +4,7 @@ namespace extensions\core;
 
 /**
  * The interface of system controller.
- * @author coon
+ * @author Leonid Selikhov
  */
 interface SystemCtrlInterface
 {

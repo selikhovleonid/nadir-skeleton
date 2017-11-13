@@ -1,8 +1,7 @@
 <?php
 /**
- * This's the auth general class for custom extension.
- *
- * @author coon
+ * This is the auth general class for custom extension.
+ * @author Leonid Selikhov
  */
 
 namespace extensions\core;
@@ -24,7 +23,7 @@ class Auth extends AbstractAuth
 
     protected function checkCookies(array $aCookies)
     {
-        // put your code here...
+        // Put your code here...
     }
 
     public function run()
@@ -43,6 +42,6 @@ class Auth extends AbstractAuth
 
     public function onFail()
     {
-        // put your code here...
+        // Put your code here...
     }
 }

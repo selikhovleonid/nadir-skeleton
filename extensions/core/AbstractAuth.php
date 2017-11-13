@@ -5,8 +5,8 @@ namespace extensions\core;
 use nadir\core\RunnableInterface;
 
 /**
- * This's the abstract auth class.
- * @author coon
+ * This is the abstract auth class.
+ * @author Leonid Selikhov
  */
 abstract class AbstractAuth implements RunnableInterface
 {

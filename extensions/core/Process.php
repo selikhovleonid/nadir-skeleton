@@ -7,7 +7,7 @@ use nadir\core\ProcessInterface;
 /**
  * The class provides custom configuration loading during the application is starting.
  * It also kills user's processes if it needed. It realized as singleton.
- * @author coon.
+ * @author Leonid Selikhov.
  */
 class Process implements ProcessInterface
 {

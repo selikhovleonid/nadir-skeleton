@@ -6,7 +6,7 @@ use extensions\core\AbstractModel;
 
 /**
  * This's demo version of model class.
- * @author coon
+ * @author Leonid Selikhov
  */
 class Test extends AbstractModel
 {

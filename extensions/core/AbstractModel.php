@@ -3,9 +3,9 @@
 namespace extensions\core;
 
 /**
- * This's an abstract model class. For functionality demonstration only.
+ * This is the abstract model class. For functionality demonstration only.
  * @todo Realize the interface and business logic.
- * @author coon.
+ * @author Leonid Selikhov.
  */
 abstract class AbstractModel
 {

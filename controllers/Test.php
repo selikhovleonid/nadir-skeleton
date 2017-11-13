@@ -6,7 +6,7 @@ use nadir\core\AbstractWebCtrl;
 
 /**
  * This is demo test controller class.
- * @author coon
+ * @author Leonid Selikhov
  */
 class Test extends AbstractWebCtrl
 {
