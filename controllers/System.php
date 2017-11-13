@@ -13,6 +13,9 @@ use nadir\core\Headers;
 class System extends AbstractWebCtrl implements SystemCtrlInterface
 {
 
+    /**
+     * {@inheritdoc}
+     */
     public function actionPage401(array $aErrors)
     {
         Headers::getInstance()->addByHttpCode(401)->run();
@@ -20,6 +23,9 @@ class System extends AbstractWebCtrl implements SystemCtrlInterface
         $this->render();
     }
 
+    /**
+     * {@inheritdoc}
+     */
     public function actionPage403(array $aErrors)
     {
         Headers::getInstance()->addByHttpCode(403)->run();
@@ -27,6 +33,9 @@ class System extends AbstractWebCtrl implements SystemCtrlInterface
         $this->render();
     }
 
+    /**
+     * {@inheritdoc}
+     */
     public function actionPage404(array $aErrors)
     {
         Headers::getInstance()->addByHttpCode(404)->run();
