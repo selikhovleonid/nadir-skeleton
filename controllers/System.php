@@ -3,7 +3,7 @@
 namespace controllers;
 
 use nadir\core\AbstractWebCtrl;
-use nadir\extensions\core\SystemCtrlInterface;
+use extensions\core\SystemCtrlInterface;
 use nadir\core\Headers;
 
 /**
