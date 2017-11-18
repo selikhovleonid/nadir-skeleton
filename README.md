@@ -2,7 +2,9 @@
 
 Nadir Microframework Project Skeleton
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+[![Latest Stable Version](https://poser.pugx.org/selikhovleonid/nadir/v/stable)](https://packagist.org/packages/selikhovleonid/nadir)
+[![Latest Unstable Version](https://poser.pugx.org/selikhovleonid/nadir/v/unstable)](https://packagist.org/packages/selikhovleonid/nadir)
+[![License](https://poser.pugx.org/selikhovleonid/nadir/license)](https://packagist.org/packages/selikhovleonid/nadir)
 
 ## Project structure
 
