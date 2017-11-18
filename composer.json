@@ -3,8 +3,8 @@
     "description": "Nadir PHP Microframework Skeleton",
     "keywords": [
         "nadir",
-        "framework",
-        "microframework",
+        "php-framework",
+        "php-micro-framework",
         "template",
         "skeleton"
     ],
@@ -19,7 +19,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "selikhovleonid/nadir": "dev-master"
+        "selikhovleonid/nadir": "1.*"
     },
     "autoload": {
         "psr-4": {
