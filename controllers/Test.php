@@ -10,7 +10,6 @@ use nadir\core\AbstractWebCtrl;
  */
 class Test extends AbstractWebCtrl
 {
-
     public function actionDefault()
     {
         $this->getView()->addSnippet('topbar');

@@ -12,4 +12,3 @@ require_once '../vendor/autoload.php';
     // Application.
     ->setConfigFile('/config/main.php')
     ->run();
-

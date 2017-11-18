@@ -10,7 +10,6 @@ use nadir\core\AbstractCliCtrl;
  */
 class Cli extends AbstractCliCtrl
 {
-
     public function actionTest(array $aArgs)
     {
         if (!empty($aArgs)) {

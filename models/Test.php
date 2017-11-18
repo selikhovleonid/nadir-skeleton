@@ -10,7 +10,6 @@ use extensions\core\AbstractModel;
  */
 class Test extends AbstractModel
 {
-
     public function readDefault()
     {
         return array(
