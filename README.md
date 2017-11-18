@@ -2,9 +2,10 @@
 
 Nadir Microframework Project Skeleton
 
-[![Latest Stable Version](https://poser.pugx.org/selikhovleonid/nadir/v/stable)](https://packagist.org/packages/selikhovleonid/nadir)
-[![Latest Unstable Version](https://poser.pugx.org/selikhovleonid/nadir/v/unstable)](https://packagist.org/packages/selikhovleonid/nadir)
-[![License](https://poser.pugx.org/selikhovleonid/nadir/license)](https://packagist.org/packages/selikhovleonid/nadir)
+[![GitHub release](https://img.shields.io/github/release/selikhovleonid/nadir-skeleton.svg)](https://github.com/selikhovleonid/nadir-skeleton/releases)
+[![Latest Stable Version](https://poser.pugx.org/selikhovleonid/nadir-skeleton/v/stable)](https://packagist.org/packages/selikhovleonid/nadir-skeleton)
+[![License](https://poser.pugx.org/selikhovleonid/nadir-skeleton/license)](https://packagist.org/packages/selikhovleonid/nadir-skeleton)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/selikhovleonid/nadir-skeleton.svg)](https://packagist.org/packages/selikhovleonid/nadir-skeleton)
 
 ## Project structure
 
